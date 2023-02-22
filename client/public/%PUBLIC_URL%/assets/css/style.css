@@ -1,0 +1,8 @@
+.my-btn {
+  border: none;
+  outline: none;
+  background: #e91e63;
+  color: white;
+  border-radius: 5px;
+  text-transform: capitalize;
+}
